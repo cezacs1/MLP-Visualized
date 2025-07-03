@@ -1,4 +1,4 @@
-﻿// Gerekli tüm kütüphaneler
+
 using System;
 using System.Collections.Generic;
 using System.Drawing;
@@ -9,7 +9,6 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Newtonsoft.Json;
 
-// Projenizin ana namespace'i
 namespace NeuralNetworkVisualizer
 {
     public class MlpModelData

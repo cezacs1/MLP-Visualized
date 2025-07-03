@@ -1,4 +1,4 @@
-![Neural Network Visualized]([https://imgur.com/a/xgDcssH])
+![Neural Network Visualized](https://i.imgur.com/UDAJdZu.png)
 
                 double[][] inputs = new double[][]
                 {
